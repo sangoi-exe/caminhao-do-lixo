@@ -1,6 +1,8 @@
 # caminhao-do-lixo
 Coleta e elimina o lixo de determinadas páginas.
 
+Por enquanto o caminhão do lixo só passa no site da Folha.
+
 ## License
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivs 4.0 International License][cc-by-nc-nd].
