@@ -1,6 +1,8 @@
 # caminhao-do-lixo
 Coleta e elimina o lixo de determinadas páginas.
 
+É um usercript, precisa do Tampermonkey ou similares instalado.
+
 Por enquanto o caminhão do lixo só passa no site da Folha.
 
 ## License
